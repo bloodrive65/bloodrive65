@@ -9,7 +9,7 @@ Just a dude, who likes gaming stuff.
 
 </div>
 
-## Featured project
+## Featured projects
 
 ### [Live Recording Analyzer](https://github.com/bloodrive65/live-recording-analyzer)
 
@@ -19,6 +19,15 @@ A Windows desktop app that watches OBS Studio while you record and explains, in 
 [![Latest release](https://img.shields.io/github/v/release/bloodrive65/live-recording-analyzer?sort=semver&label=release)](https://github.com/bloodrive65/live-recording-analyzer/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/bloodrive65/live-recording-analyzer/total?label=downloads)](https://github.com/bloodrive65/live-recording-analyzer/releases)
 [![Website](https://img.shields.io/badge/website-help%20%26%20guides-1e1e22)](https://bloodrive65.github.io/live-recording-analyzer/)
+
+### [Pixel Card Club](https://github.com/bloodrive65/pixel-card-club)
+
+A 16-bit pixel-art card game collection with AI opponents: Blackjack, Texas Hold'em, Solitaire, Spider, Go Fish, Crazy Eights and War. Play it in the browser, on iPhone / iPad as a Home Screen app, or on Windows.
+
+[![Play now](https://img.shields.io/badge/play-in%20your%20browser-38b764)](https://bloodrive65.github.io/pixel-card-club/)
+[![Latest release](https://img.shields.io/github/v/release/bloodrive65/pixel-card-club?sort=semver&label=release)](https://github.com/bloodrive65/pixel-card-club/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/bloodrive65/pixel-card-club/total?label=downloads)](https://github.com/bloodrive65/pixel-card-club/releases)
+[![How to play](https://img.shields.io/badge/docs-how%20to%20play-1e1e22)](https://github.com/bloodrive65/pixel-card-club/blob/master/docs/HOW_TO_PLAY.md)
 
 ## Other projects
 
