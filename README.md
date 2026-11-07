@@ -29,11 +29,23 @@ A 16-bit pixel-art card game collection with AI opponents: Blackjack, Texas Hold
 [![Downloads](https://img.shields.io/github/downloads/bloodrive65/pixel-card-club/total?label=downloads)](https://github.com/bloodrive65/pixel-card-club/releases)
 [![How to play](https://img.shields.io/badge/docs-how%20to%20play-1e1e22)](https://github.com/bloodrive65/pixel-card-club/blob/master/docs/HOW_TO_PLAY.md)
 
+### [Sports Watcher](https://www.bloodrive65.com/sports-watcher)
+
+A live NFL scoreboard on my website.
+
+[![Open](https://img.shields.io/badge/open-on%20bloodrive65.com-e0502a)](https://www.bloodrive65.com/sports-watcher)
+[![Code](https://img.shields.io/badge/code-GitHub-1e1e22)](https://github.com/bloodrive65/sports-watcher)
+
+### [Twitch Name Selector](https://www.bloodrive65.com/twitch-name-selector)
+
+Enter your Twitch handle to join the rotation. Names rotate every 6 hours, and current users are shown on the page.
+
+[![Open](https://img.shields.io/badge/open-on%20bloodrive65.com-9146ff)](https://www.bloodrive65.com/twitch-name-selector)
+
 ## Other projects
 
 | Project | What it is |
 |---|---|
-| [sports-watcher](https://github.com/bloodrive65/sports-watcher) | Live NFL scoreboard for my website |
 | [PS4-Game-Database-Log](https://github.com/bloodrive65/PS4-Game-Database-Log) | Log for PS4 game saves |
 | [confetti.min.js](https://github.com/bloodrive65/confetti.min.js) | Simple confetti effect for my website |
 
